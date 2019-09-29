@@ -1,0 +1,20 @@
+name: RSE
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+  - tensorflow
+  - pytorch
+  - mxnet
+dependencies:
+  - python=3.7
+  - matplotlib
+  - pandas
+  - tensorflow=1.14.0
+  - pytorch=1.2
+  - torchvision
+  - mxnet=1.5.0
+  - keras
+  - julia=1.1.1
+  - jupyter
+  - jupyterlab
